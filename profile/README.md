@@ -38,6 +38,7 @@ _The full documentation is available at <https://www.tcgdex.dev>_
 - [Javascript/Typescript SDK](https://github.com/tcgdex/javascript-sdk)
 - [PHP SDK](https://github.com/tcgdex/php-sdk)
 - [Java SDK](https://github.com/tcgdex/java-sdk)
+- [Python SDK](https://github.com/tcgdex/python-sdk)
 - [Add you own](https://discord.gg/NehYTAhsZE)
 
 ## API Progress Status
