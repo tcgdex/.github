@@ -35,10 +35,11 @@ _The full documentation is available at <https://www.tcgdex.dev>_
 - You can also direcly use the endpoints at `api.tcgdex.net` (see the documentation).
 
 **TCGdex SDKs**
-- [Javascript/Typescript SDK](https://github.com/tcgdex/javascript-sdk)
+- [Java & Kotlin SDK](https://github.com/tcgdex/java-sdk)
+- [Javascript & Typescript SDK](https://github.com/tcgdex/javascript-sdk)
 - [PHP SDK](https://github.com/tcgdex/php-sdk)
-- [Java SDK](https://github.com/tcgdex/java-sdk)
 - [Python SDK](https://github.com/tcgdex/python-sdk)
+- [Rust SDK](https://github.com/tcgdex/rust-sdk)
 - [Add you own](https://discord.gg/NehYTAhsZE)
 
 ## API Progress Status
